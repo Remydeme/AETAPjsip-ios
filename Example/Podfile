@@ -1,0 +1,7 @@
+use_frameworks!
+target 'AETAPjsip-ios_Tests' do
+  pod 'AETAPjsip-ios', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end

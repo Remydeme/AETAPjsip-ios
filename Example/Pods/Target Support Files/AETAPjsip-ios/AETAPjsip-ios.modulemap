@@ -1,0 +1,6 @@
+framework module AETAPjsip_ios {
+  umbrella header "AETAPjsip-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}
